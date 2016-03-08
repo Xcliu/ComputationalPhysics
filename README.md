@@ -11,6 +11,25 @@
 * item2
 * item3
   * item 3a
+
 ####添加图片
-[github logo](/images/logo.png)
+[github logo](/images/logo.png）
+####引用
+As someone said：
+>nothing can not be achieved
+
+####插入代码
+use an '<addr>' element here instead
+
+####插入表格
+第一个项目 | 第二个项目
+----------|-----------
+内容      |    内容
+内容      |    内容
+#### 删除线  ~~mistake~~
+####任务清单 
+- [x] 自我介绍
+- [ ] 语法介绍
+- [ ] 总结
+
 
