@@ -13,7 +13,7 @@
   * item 3a
 
 ####添加图片
-[github logo](/images/logo.png）
+[Alt text](/path/to/img.jpg "Optional title")
 ####引用
 As someone said：
 >nothing can not be achieved
