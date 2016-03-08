@@ -5,6 +5,12 @@
 ####字体的选择：**blood**  *italic* 默认字体
 ####添加网址链接  [link to baidu !] (http://baidu.com)
 ####标题分级  #head ##head ###head
-
-
+####强调 *emphasis* _emphasis_  **enphasis** __emphasis__  you __can__ combine *them*
+####排序
+* item1
+* item2
+* item3
+  * item 3a
+####添加图片
+[github logo](/images/logo.png)
 
