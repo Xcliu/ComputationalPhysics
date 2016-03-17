@@ -31,6 +31,8 @@ use an '<addr>' element here instead
 - [x] 自我介绍
 - [ ] 语法介绍
 - [ ] 总结
-####第三次作业  [link to 第三次作业!] (http://baidu.com)
+
+
+#### 第三次作业  [link to 第三次作业!] （https://github.com/Xcliu/Homework_3）
 
 
