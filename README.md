@@ -33,6 +33,6 @@ use an '<addr>' element here instead
 - [ ] 总结
 
 
-#### [第三次作业 !] （https://github.com/Xcliu/Homework_3）
+#### [第三次作业 !] （https://github.com/Xcliu/Homework_3.git）
 
 
