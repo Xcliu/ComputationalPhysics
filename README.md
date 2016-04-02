@@ -1,13 +1,7 @@
 # computationalphysics_N2013301020167
 ##个人简介
 ###刘星辰 2013级材料物理专业
-###作业列表
-|homework_1|就在本页|
-|----|----|
-|homework_3|（https://github.com/Xcliu/Homework_3.git）|
-|homework_4||
-|homework_6||
-|||
+
 ##markdown 语法学习
 ####字体的选择：**blood**  *italic* 默认字体
 ####添加网址链接  [link to baidu !] (http://baidu.com)
@@ -39,7 +33,5 @@ use an '<addr>' element here instead
 - [ ] 语法介绍
 - [ ] 总结
 
-
-#### [第三次作业 !] （https://github.com/Xcliu/Homework_3.git）
 
 
