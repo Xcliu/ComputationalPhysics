@@ -4,7 +4,7 @@
 ###作业列表
 |homework_1|就在本页|
 |----|----|
-|homework_3[link] （https://github.com/Xcliu/Homework_3.git）|
+|homework_3|（https://github.com/Xcliu/Homework_3.git）|
 |homework_4||
 |homework_6||
 |||
